@@ -1,2 +1,3 @@
 # Gallery_Plugin_WP
-Plugin that uses CMB2 Fields, ColorBox and FitVids.
+WordPress plugin that uses CMB2 Fields, ColorBox and FitVids.
+Plugin de WordPress que utiliza CMB, Colorbox y Fitvids para crear galerias.
